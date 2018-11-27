@@ -1,7 +1,7 @@
 # AstroInstitutions
 A latex file with aliases for astro/cosmo/hep institutions.
 
-# Instructions to use
+# Instructions for use
 
 First look at `institutionAliases.tex`. Either:
  * You find your institution listed there, remember the alias
